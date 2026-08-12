@@ -1,0 +1,10 @@
+import pandas as pd
+names=pd.Series(['Alice','Bob','CHARLIE'])
+print(names.str.lower())
+print(names.str.contains('a'))
+print(names.str.upper())
+print(names.str.replace('a','@'))
+print(names.str.startswith('R'))
+print(names.str.endswith('R'))
+print(names.str.strip())
+print(names.str.len())
