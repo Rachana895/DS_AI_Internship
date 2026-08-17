@@ -1,0 +1,21 @@
+Age,Income,Credit_Score,Employment,Existing_Loans,Eligibility
+25,25000,580,No,2,Not Eligible
+28,30000,600,Yes,2,Not Eligible
+30,35000,620,Yes,1,Eligible
+32,40000,650,Yes,1,Eligible
+35,45000,680,Yes,1,Eligible
+29,28000,590,No,2,Not Eligible
+40,55000,720,Yes,0,Eligible
+42,60000,750,Yes,0,Eligible
+45,65000,780,Yes,0,Eligible
+27,32000,610,Yes,2,Not Eligible
+31,38000,640,Yes,1,Eligible
+36,42000,660,No,1,Not Eligible
+38,48000,700,Yes,1,Eligible
+33,36000,630,No,2,Not Eligible
+41,52000,710,Yes,0,Eligible
+26,27000,570,No,3,Not Eligible
+39,50000,690,Yes,1,Eligible
+44,58000,730,Yes,0,Eligible
+34,41000,620,No,2,Not Eligible
+37,47000,680,Yes,1,Eligible
