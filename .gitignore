@@ -1,0 +1,20 @@
+# Environment / secrets
+.env
+venv/
+myenv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Chroma/vector database
+data/chroma_db/
