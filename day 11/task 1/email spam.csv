@@ -1,0 +1,21 @@
+Free_Words,Links,Unknown_Sender,Spam
+5,4,1,Spam
+6,5,1,Spam
+4,3,1,Spam
+7,6,1,Spam
+5,5,1,Spam
+3,4,1,Spam
+6,4,1,Spam
+8,7,1,Spam
+4,5,1,Spam
+7,5,1,Spam
+1,0,0,Not Spam
+2,1,0,Not Spam
+1,1,0,Not Spam
+2,0,0,Not Spam
+3,1,0,Not Spam
+1,0,0,Not Spam
+2,1,0,Not Spam
+3,0,0,Not Spam
+2,2,0,Not Spam
+1,1,0,Not Spam
